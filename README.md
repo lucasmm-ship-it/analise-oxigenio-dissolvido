@@ -29,7 +29,11 @@ sobre estações de monitoramento, localização e medições anuais.
 - Matplotlib
 - SciPy
 
-## 5. Principais resultados
+## 5. Pergunta de análise
+
+Existe diferença significativa nas médias de oxigênio dissolvido entre as estações de monitoramento do Maranhão e as dos demais estados brasileiros em 2020?
+
+## 6. Principais resultados
 
 - Média do Maranhão em 2020: 6,84.
 - Média das demais UFs: 6,62.
@@ -37,14 +41,14 @@ sobre estações de monitoramento, localização e medições anuais.
 - Não foram encontradas evidências estatísticas suficientes de
   diferença entre as médias dos dois grupos.
 
-## 6. Conclusão
+## 7. Conclusão
 
 A comparação não identificou diferença estatisticamente significativa
 entre as médias de oxigênio dissolvido dos grupos analisados em 2020.
 A análise também revelou maior dispersão dos valores nas estações
 maranhenses.
 
-## 7. Autoria
+## 8. Autoria
 
 Lucas Moraes
 
