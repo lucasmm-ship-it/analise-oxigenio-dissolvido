@@ -45,5 +45,8 @@ A análise também revelou maior dispersão dos valores nas estações
 maranhenses.
 
 ## 7. Autoria
+## 7. Autoria
+
+Lucas Moraes
 
 Trabalho individual.
